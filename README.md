@@ -7,7 +7,7 @@ Hello, I am **Solomon Oyefule**, a Software Engineer at **Semicolon Africa**, ch
 ---
 
 ## Navigation
-- [Home](#home)
+- [Home](http://www.solomonoyefule.me/SOLOMON-OYEFULE/)
 - [About Me](#about-me)
 - [Services](#services)
 - [Portfolio](#portfolio)
@@ -27,6 +27,8 @@ Hello, I am **Solomon Oyefule**, a Software Engineer at **Semicolon Africa**, ch
 - [WhatsApp](https://wa.me/2349096271973)
 - [GitHub](https://github.com/Xalmon)
 - [LinkedIn](https://www.linkedin.com/in/solomon-oyefule)
+
+![Your Image](http://solomonoyefule.me/SOLOMON-OYEFULE/images/DSC04994.jpg)
 
 [Download My CV](../Solomon%20Oyefule.pdf)
 
